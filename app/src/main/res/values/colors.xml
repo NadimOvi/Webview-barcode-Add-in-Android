@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>-->
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrimaryDark">#0a5b85</color>
+    <color name="colorPrimaryBackground">#0886c7</color>
+    <color name="colorAccent">#375290</color>
+    <color name="colorFormBackground">#C3C2CC</color>
+    <color name="colorTextBackground">#535357</color>
+
+    <color name="colorLayerPrimary">#4c3885</color>
+    <color name="colorButtonPrimaryDark">#8067C5</color>
+    <color name="colorTextAccent">#0C0C0C</color>
+    <color name="colorBlack">#0C0C0C</color>
+    <color name="colorHintTextAccent">#857E7E</color>
+</resources>

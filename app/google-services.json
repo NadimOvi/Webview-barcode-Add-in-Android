@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "495784286919",
+    "firebase_url": "https://gbegbe-c7ad1.firebaseio.com",
+    "project_id": "gbegbe-c7ad1",
+    "storage_bucket": "gbegbe-c7ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495784286919:android:ca100fd9829f22861f3ce2",
+        "android_client_info": {
+          "package_name": "com.easyregs.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495784286919-uv0ablhj6q5stoc93ob4n3nrtcg5vug3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easyregs.tutorial",
+            "certificate_hash": "f2aa1df0a2543dcfbd2d6242f28949afb60e440a"
+          }
+        },
+        {
+          "client_id": "495784286919-s3c9ttigsq1a65h0qv9sq29b8u6e74o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CvRGLzx2xw0HUaFBMLOXz7pQvILsspo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495784286919-s3c9ttigsq1a65h0qv9sq29b8u6e74o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495784286919:android:b9d4d5c9b1175e301f3ce2",
+        "android_client_info": {
+          "package_name": "com.gbegbe.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495784286919-2t2nch4vfa9kt3isrbogica3cugmcsg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbegbe.myapplication",
+            "certificate_hash": "f0a372eb9e0d2d6c2b7c32d28bf509fca4a44363"
+          }
+        },
+        {
+          "client_id": "495784286919-hkvpcslaf8dskrpdam6of9lm9jk71jk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gbegbe.myapplication",
+            "certificate_hash": "f2aa1df0a2543dcfbd2d6242f28949afb60e440a"
+          }
+        },
+        {
+          "client_id": "495784286919-s3c9ttigsq1a65h0qv9sq29b8u6e74o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9CvRGLzx2xw0HUaFBMLOXz7pQvILsspo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495784286919-s3c9ttigsq1a65h0qv9sq29b8u6e74o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

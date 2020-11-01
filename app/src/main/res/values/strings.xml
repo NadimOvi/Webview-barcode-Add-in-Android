@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy Registration</string>
+    <string name="version">Version \n2.1.1</string>
+
+    <string name="phoneDgit">+88: </string>
+    <string name="enter_your_phone_number">এই মোবাইল সেটটিতে প্রবেশ করানো আছে শুধুমাত্র এমন ফোন নম্বর দিন। মোবাইল নম্বরটি অবশ্যই ওয়ালটন / মার্সেল কর্তৃপক্ষের মাধ্যমে নিবন্ধিত হতে হবে।</string>
+</resources>
